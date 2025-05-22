@@ -84,8 +84,7 @@ pip install ortools matplotlib numpy dask[distributed] torch onnxruntime onnx sc
     └── distributed_vrp.png
     └── central_vrp.png
     └── cluster-seeded_vrp.png
-└── notebook/
-    └── SmartRouteOptimizer.ipynb
+└── SmartRouteOptimizer.ipynb
 ```
 
 
