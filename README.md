@@ -74,22 +74,12 @@ pip install ortools matplotlib numpy dask[distributed] torch onnxruntime onnx sc
 
 ## Project Structure
 
-\`\`\`
+```
 .
 ├── README.md
 ├── requirements.txt
 └── notebooks/
     └── SmartRouteOptimizer.ipynb
-\`\`\`
+```
 
-## Contributing
 
-1. Fork this repository  
-2. Create a new branch (\`git checkout -b feature/my-feature\`)  
-3. Commit your changes (\`git commit -m "Add awesome feature"\`)  
-4. Push to your fork (\`git push origin feature/my-feature\`)  
-5. Open a Pull Request  
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
