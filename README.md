@@ -42,14 +42,14 @@ pip install ortools matplotlib numpy dask[distributed] torch onnxruntime onnx sc
 
 1. **Clone the repo**  
    ```
-   git clone https://github.com/<your-username>/smart-route-optimizer.git
+   git clone https://github.com/atharvayeola/Smart-Route-Optimizer.git
    cd smart-route-optimizer
    ```
 2. **Open the notebook**  
-   - In Colab: upload \`notebooks/SmartRouteOptimizer.ipynb\`  
+   - In Colab: upload \`SmartRouteOptimizer.ipynb\`  
    - Locally:  
      ```
-     jupyter notebook notebooks/SmartRouteOptimizer.ipynb
+     jupyter notebook SmartRouteOptimizer.ipynb
      ```
 3. **Run all cells**  
    Follow the annotated sections to generate data, cluster points, solve VRPs, train & quantize the ETA model, and visualize results.
